@@ -1,0 +1,10 @@
+C:\Users\Shakur\Desktop\RGB To HEX\RGB To HEX\bin\Debug\RGB To HEX.exe.config
+C:\Users\Shakur\Desktop\RGB To HEX\RGB To HEX\bin\Debug\RGB To HEX.exe
+C:\Users\Shakur\Desktop\RGB To HEX\RGB To HEX\bin\Debug\RGB To HEX.pdb
+C:\Users\Shakur\Desktop\RGB To HEX\RGB To HEX\obj\Debug\RGB To HEX.csprojResolveAssemblyReference.cache
+C:\Users\Shakur\Desktop\RGB To HEX\RGB To HEX\obj\Debug\RGB_To_HEX.Form1.resources
+C:\Users\Shakur\Desktop\RGB To HEX\RGB To HEX\obj\Debug\RGB_To_HEX.Properties.Resources.resources
+C:\Users\Shakur\Desktop\RGB To HEX\RGB To HEX\obj\Debug\RGB To HEX.csproj.GenerateResource.Cache
+C:\Users\Shakur\Desktop\RGB To HEX\RGB To HEX\obj\Debug\RGB To HEX.csproj.CoreCompileInputs.cache
+C:\Users\Shakur\Desktop\RGB To HEX\RGB To HEX\obj\Debug\RGB To HEX.exe
+C:\Users\Shakur\Desktop\RGB To HEX\RGB To HEX\obj\Debug\RGB To HEX.pdb
